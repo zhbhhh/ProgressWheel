@@ -155,4 +155,7 @@ public class Main extends Activity {
         @Override public void onStartTrackingTouch(SeekBar seekBar) {}
         @Override public void onStopTrackingTouch(SeekBar seekBar) {}
     }
+    public void print(){
+    	System.out.println(" ni hao a ");
+    }
 }
